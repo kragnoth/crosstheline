@@ -1,0 +1,7 @@
+
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "crosstheline:items/belt_of_control"
+  }
+}
